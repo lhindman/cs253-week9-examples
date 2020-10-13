@@ -1,20 +1,24 @@
 {
 	"folders": [
 		{
+			"name": "PointerBasics",
 			"path": "PointerBasics"
-		}, 
-		{
-			"path": "PointerArithmetic"
-			
 		},
 		{
+			"name": "PointersAndArrays",
+			"path": "PointersAndArrays"
+		},
+		{
+			"name": "PointersAndStructs",
 			"path": "PointersAndStructs"
 		},
 		{
-			"path": "PointersAndFunctions"
+			"name": "DynamicMemory",
+			"path": "DynamicMemory"
 		},
 		{
-			"path": "DynamicMemory"
+			"name": "PointersAndFunctions",
+			"path": "PointersAndFunctions"
 		}
 	],
 	"settings": {
