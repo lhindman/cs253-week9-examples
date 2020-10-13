@@ -1,7 +1,20 @@
 {
 	"folders": [
 		{
-			"path": "MyApp"
+			"path": "PointerBasics"
+		}, 
+		{
+			"path": "PointerArithmetic"
+			
+		},
+		{
+			"path": "PointersAndStructs"
+		},
+		{
+			"path": "PointersAndFunctions"
+		},
+		{
+			"path": "DynamicMemory"
 		}
 	],
 	"settings": {
