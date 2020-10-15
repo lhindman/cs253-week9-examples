@@ -19,6 +19,9 @@
 		{
 			"name": "PointersAndFunctions",
 			"path": "PointersAndFunctions"
+		},
+		{
+			"path": "DynamicMemoryAndStructs"
 		}
 	],
 	"settings": {
